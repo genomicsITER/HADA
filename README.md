@@ -77,5 +77,15 @@ Mendoza-Alvarez, A., Muñoz-Barrera, A., Rubio-Rodríguez, L.A., Marcelino-Rodr�
 ## Funding
 This   work   was   supported   by   the   Ministerio   de   Ciencia,    Innovación  y  Universidades  (RTC-2017-6471-1;  MINECO/AEI/FEDER,  UE),  which  was  co-financed  by  the  European   Regional Development Funds ‘A way of making Europe’ from  the  European  Union;  Cabildo Insular de Tenerife  (CGIEU0000219140),  and  by  agreement  OA17/008   with  the  Instituto  Tecnológico  y  de  Energías  Renovables   (ITER)  to  strengthen  scientific  and  technological  education,   training, research, development, and innovation in genomics,  personalized    medicine,    and    biotechnology.    AMA    was     supported  by  a  fellowship  from  ULL-Cajasiete.
 
+<p><br></p>
+<p align="center">
+  <img src="https://github.com/genomicsITER/HADA/blob/master/MICIU-Agencia-y-Europa_logo.jpg" width="auto"/>
+</p>
+<p><br></p>
+<p align="center">
+<b>Figure 1. prepABEL</b> is able to transpose vcf data into a genomic predictor file (a), and capture selected columns to prepare an INFO SNP (b) and MAP (c) files to conduct survival analysis.
+</p>
+<br>
+<br>
 
 ![](https://drive.google.com/uc?export=view&id=1W7_XlrTCmMkiH5XkWNYClt_3LeIuS9ZY)
