@@ -86,5 +86,3 @@ This   work   was   supported   by   the   Ministerio   de   Ciencia,    Innovac
   <img src="https://github.com/genomicsITER/HADA/blob/master/Footer.png" width="auto"/ title="logotipos" alt="funding">
 </p>
 <br>
-
-![](https://drive.google.com/uc?export=view&id=1W7_XlrTCmMkiH5XkWNYClt_3LeIuS9ZY)
