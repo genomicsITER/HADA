@@ -81,10 +81,6 @@ This   work   was   supported   by   the   Ministerio   de   Ciencia,    Innovac
 <p align="center">
   <img src="https://github.com/genomicsITER/HADA/blob/master/MICIU-Agencia-y-Europa_logo.jpg" width="auto"/>
 </p>
-<p><br></p>
-<p align="center">
-<b>Figure 1. prepABEL</b> is able to transpose vcf data into a genomic predictor file (a), and capture selected columns to prepare an INFO SNP (b) and MAP (c) files to conduct survival analysis.
-</p>
 <br>
 <br>
 
