@@ -78,7 +78,12 @@ Mendoza-Alvarez, A., Muñoz-Barrera, A., Rubio-Rodríguez, L.A., Marcelino-Rodr�
 This   work   was   supported   by   the   Ministerio   de   Ciencia,    Innovación  y  Universidades  (RTC-2017-6471-1;  MINECO/AEI/FEDER,  UE),  which  was  co-financed  by  the  European   Regional Development Funds ‘A way of making Europe’ from  the  European  Union;  Cabildo Insular de Tenerife  (CGIEU0000219140),  and  by  agreement  OA17/008   with  the  Instituto  Tecnológico  y  de  Energías  Renovables   (ITER)  to  strengthen  scientific  and  technological  education,   training, research, development, and innovation in genomics,  personalized    medicine,    and    biotechnology.    AMA    was     supported  by  a  fellowship  from  ULL-Cajasiete.
 
 <p align="center">
-  <img src="https://github.com/genomicsITER/HADA/blob/master/MICIU-Agencia-y-Europa_logo.jpg" width="auto"/>
+  <img src="https://github.com/genomicsITER/HADA/blob/master/MICIU-Agencia-y-Europa_logo.jpg" width="auto" title="funding" alt="funding" />
+</p>
+<br>
+
+<p align="center">
+  <img src="https://github.com/genomicsITER/HADA/blob/master/Footer.png" width="auto"/ title="logotipos" alt="funding">
 </p>
 <br>
 
