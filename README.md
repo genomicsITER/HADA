@@ -53,11 +53,11 @@ wget https://raw.githubusercontent.com/genomicsITER-developers/HADA/master/datab
 
 A toy VCF can be downloaded from this repository. Annotate a VCF file using HADA database and variants in HAE related genes:
 ```
-perl <path-to-annovar-dir>/table_annovar.pl <path-to-vcf-infile> <path-to-annovar-dir>/humandb \
+perl <path-to-annovar-dir>/table_annovar.pl <path-to-vcf-infile/toy_HADA.vcf> <path-to-annovar-dir>/humandb \
   -buildver hg19 \
   -out <path-to-vcf-outfile> \
   -remove \
-  -protocol hg19_hada_20191203, hg19_hada_related_genes_20191203 \
+  -protocol hg19_hada_20200120, hg19_hada_related_genes_20200120 \
   -operation f,f \
   -nastring . \
   -vcfinput
