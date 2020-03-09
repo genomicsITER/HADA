@@ -38,15 +38,13 @@ tar -zxvf annovar.latest.tar.gz
 
 ### Download HADA
 
-In ANNOVAR folder, download HADA databases and index files from this repository:
+In ANNOVAR folder, download HADA databases from this repository:
 
 ```
 cd annovar/humandb
 wget https://raw.githubusercontent.com/genomicsITER-developers/HADA/master/databases/hg19_hada_20200120.txt
-wget https://raw.githubusercontent.com/genomicsITER-developers/HADA/master/databases/hg19_hada_20200120.txt.idx
 
 wget https://raw.githubusercontent.com/genomicsITER-developers/HADA/master/databases/hg19_hada_related_genes_20200120.txt
-wget https://raw.githubusercontent.com/genomicsITER-developers/HADA/master/databases/hg19_hada_related_genes_20200120.txt.idx
 ```
 
 ## Usage
@@ -75,7 +73,8 @@ Mendoza-Alvarez, A., Muñoz-Barrera, A., Rubio-Rodríguez, L.A., Marcelino-Rodr�
 ---
 
 ## Funding
-This   work   was   supported   by   the   Ministerio   de   Ciencia,    Innovación  y  Universidades  (RTC-2017-6471-1;  MINECO/AEI/FEDER,  UE),  which  was  co-financed  by  the  European   Regional Development Funds ‘A way of making Europe’ from  the  European  Union;  Cabildo Insular de Tenerife  (CGIEU0000219140),  and  by  agreement  OA17/008   with  the  Instituto  Tecnológico  y  de  Energías  Renovables   (ITER)  to  strengthen  scientific  and  technological  education,   training, research, development, and innovation in genomics,  personalized    medicine,    and    biotechnology.    AMA    was     supported  by  a  fellowship  from  ULL-Cajasiete.
+This work was supported by the Ministerio de Ciencia e Innovación (RTC-2017-6471-1; AEI/FEDER, UE) and the Instituto de Salud Carlos III (CD19/00231), which were co-financed by the European Regional Development Funds ‘A way of making Europe’ from the European Union; Cabildo Insular de Tenerife (CGIEU0000219140); and by agreement OA17/008 with the Instituto Tecnológico y de Energías Renovables (ITER) to strengthen scientific and technological education, training, research, development, and innovation in genomics, personalized medicine, and biotechnology. AMA was supported by a fellowship from ULL-Cajasiete. 
+The content of this publication is solely the responsibility of the authors and does not necessarily reflect the views or policies of the funding agencies.
 
 <p align="center">
   <img src="https://github.com/genomicsITER/HADA/blob/master/MICIU-Agencia-y-Europa_logo.jpg" width="auto" title="funding" alt="funding" />
