@@ -1,4 +1,7 @@
-![HADA](https://drive.google.com/uc?export=view&id=1b47_bP1gyiTlBoFHOGCQIbzq29U_yyJ3)
+<p align="center">
+  <img src="https://github.com/genomicsITER/HADA/blob/master/HADA_logo-small.png" width="auto" title="HADA" alt="HADA" />
+</p>
+<br>
 
 # HADA: automated annotation of next-generation sequencing data in hereditary angioedema studies
 
