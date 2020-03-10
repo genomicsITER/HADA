@@ -1,9 +1,6 @@
-<p align="center">
-  <img src="https://github.com/genomicsITER/HADA/blob/master/HADA_logo-small.png" width="auto" title="HADA" alt="HADA" />
-</p>
-<br>
+<img src="https://github.com/genomicsITER/HADA/blob/master/HADA_logo-small.png" width="auto" title="HADA" alt="HADA" />
 
-# HADA: automated annotation of next-generation sequencing data in hereditary angioedema studies
+# Automated annotation of next-generation sequencing data in hereditary angioedema studies
 
 In order to assist the clinical diagnosis and adapt it to the paradigm of precision medicine and next-generation sequencing (NGS)-based genetic tests, we have developed the Hereditary Angioedema Database Annotation (HADA) tool (hyperlink to the tool) built on top of a database of hundreds of known variants affecting function, including a precomputed pathogenic assessment of each variant and a ranked classification according to the current guidelines from the American College of Medical Genetics and Genomics. The curated database of variants affecting function in HAE can be accessed from this repository and is ready to be incorporated into ANNOVAR annotation routines.
 
