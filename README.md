@@ -1,4 +1,4 @@
-<img src="https://github.com/genomicsITER/HADA/blob/master/HADA_logo-small.png" width="auto" title="HADA" alt="HADA" />
+<img src="https://github.com/genomicsITER/HADA/blob/master/images/HADA_logo-small.png" width="auto" title="HADA" alt="HADA" />
 
 # Automated annotation of next-generation sequencing data in hereditary angioedema studies
 
@@ -81,6 +81,6 @@ The content of this publication is solely the responsibility of the authors and 
 <br>
 
 <p align="center">
-  <img src="https://github.com/genomicsITER/HADA/blob/master/Footer.png" width="auto"/ title="logotipos" alt="funding">
+  <img src="https://github.com/genomicsITER/HADA/blob/master/images/Footer.png" width="auto"/ title="logotipos" alt="funding">
 </p>
 <br>
