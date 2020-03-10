@@ -1,4 +1,4 @@
-![](https://drive.google.com/uc?export=view&id=1f2B1e-0Qp5sxDF3yMnunIZppxLtA8WIa)
+![HADA](https://drive.google.com/uc?export=view&id=1f2B1e-0Qp5sxDF3yMnunIZppxLtA8WIa){:height="36px"}
 
 # HADA: automated annotation of next-generation sequencing data in hereditary angioedema studies
 
