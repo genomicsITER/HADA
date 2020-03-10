@@ -76,7 +76,7 @@ This work was supported by the Ministerio de Ciencia e Innovación (RTC-2017-647
 The content of this publication is solely the responsibility of the authors and does not necessarily reflect the views or policies of the funding agencies.
 
 <p align="center">
-  <img src="https://github.com/genomicsITER/HADA/blob/master/MICIU-Agencia-y-Europa_logo.jpg" width="auto" title="funding" alt="funding" />
+  <img src="https://github.com/genomicsITER/HADA/blob/master/images/MICIU-Agencia-y-Europa_logo.png" width="auto" title="funding" alt="funding" />
 </p>
 <br>
 
