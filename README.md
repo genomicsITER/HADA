@@ -84,3 +84,8 @@ The content of this publication is solely the responsibility of the authors and 
   <img src="https://github.com/genomicsITER/HADA/blob/master/images/Footer.png" width="auto"/ title="logotipos" alt="funding">
 </p>
 <br>
+
+<p align="center">
+  <img src="https://github.com/genomicsITER/HADA/blob/master/images/TFInnova-MEDI-FDCAN_logos.jpg" width="auto"/ title="logotipos" alt="funding">
+</p>
+<br>
