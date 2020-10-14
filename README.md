@@ -67,7 +67,7 @@ The resulting annotated VCF will be in `<path-to-vcf-outfile>.hg19_multianno.vcf
 
 ## How to cite
 
-Mendoza-Alvarez, A., Muñoz-Barrera, A., Rubio-Rodríguez, L.A., Marcelino-Rodríguez, I., Corrales, A., Iñigo-Campos, A.,  Callero, A., García-Robaina, J.C., González-Montelongo, R., Lorenzo-Salazar, J.M., Flores, C. (2020). HADA: an interactive web-based resource for the annotation of genetic variants causing hereditary angioedema. (Under Revision).
+Mendoza-Alvarez A, Muñoz-Barrera A, Rubio-Rodríguez LA, Marcelino-Rodríguez I, Corrales A, Iñigo-Campos A, Callero A, Perez-Rodriguez E, García-Robaina JC, González-Montelongo R, Lorenzo-Salazar JM, Flores C. Interactive web-based resource for annotation of genetic variants causing hereditary angioedema (HADA): Database, development, implementation, and validation. Journal of Medical Internet Research 2020, 22: e19040.    
 
 ---
 
