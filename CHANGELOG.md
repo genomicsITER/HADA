@@ -1,6 +1,14 @@
 # Changelog
 All notable changes to this project will be documented in this file.
 
+## [1.0.3] - 2020-11-24
+- Release of HADA v.1.0.3
+- CAPICE scores have been added to HADA (v.1.0)
+
+## [1.0.2] - 2020-10-28
+- Release of HADA v.1.0.2
+- New HAE causal variants located in SERPING1
+
 ## [1.0.1] - 2020-06-24
 - Release of HADA v.1.0.1
 - InterVar pathogenicity classification has been updated (v2.0.2)
