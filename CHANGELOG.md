@@ -1,6 +1,15 @@
 # Changelog
 All notable changes to this project will be documented in this file.
 
+## [1.0.5] - 2021-04-25
+- Release of HADA v.1.0.5
+- Integration of 8 novel causal variants in SERPING1 gene.
+- Error corrections in the HAE related variants database.
+
+## [1.0.4] - 2021-04-16
+- Release of HADA v.1.0.4
+- Integration of SYTL2 reported variant associated with HAE.
+
 ## [1.0.3] - 2020-11-24
 - Release of HADA v.1.0.3
 - CAPICE scores have been added to HADA (v.1.0)
