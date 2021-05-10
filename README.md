@@ -9,7 +9,7 @@ At the moment, the database is supplied in GRCh37/hg19 coordinates and integrate
 ## Use online web service
 HADA can be used as online service at http://hada.hpc.iter.es
 
-<img src="https://github.com/genomicsITER/HADA/blob/master/images/Header.png" width="auto" title="HADA web service" alt="HADA web service" />
+<img src="images/Header.png" width="auto" title="HADA web service" alt="HADA web service" />
 
 ## Contents
 * [Background](#background)
