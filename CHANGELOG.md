@@ -1,6 +1,11 @@
 # Changelog
 All notable changes to this project will be documented in this file.
 
+## [1.0.6] - 2021-07-19
+- Release of HADA v.1.0.6
+- Integration of 1 novel causal variants in HS3ST6 gene.
+- Clinical classification update of variant PLG:c.988A>G from VUS to Likely Pathogenic.
+
 ## [1.0.5] - 2021-04-25
 - Release of HADA v.1.0.5
 - Integration of 8 novel causal variants in SERPING1 gene.
