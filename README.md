@@ -46,8 +46,8 @@ In ANNOVAR folder, download HADA databases from this repository:
 ```
 cd annovar/humandb
 
-wget https://raw.githubusercontent.com/genomicsITER/HADA/blob/master/databases/latest/hg19_hada_20210719.txt
-wget https://raw.githubusercontent.com/genomicsITER/HADA/blob/master/databases/latest/hg19_hada_related_genes_20210425.txt
+wget https://raw.githubusercontent.com/genomicsITER/HADA/blob/master/databases/latest/hg19_hada_20220224.txt
+wget https://raw.githubusercontent.com/genomicsITER/HADA/blob/master/databases/latest/hg19_hada_related_genes_20220224.txt
 ```
 
 ## Usage
@@ -58,7 +58,7 @@ perl <path-to-annovar-dir>/table_annovar.pl <path-to-vcf-infile/toy_HADA.vcf> <p
   -buildver hg19 \
   -out <path-to-vcf-outfile> \
   -remove \
-  -protocol hg19_hada_20200120, hg19_hada_related_genes_20200120 \
+  -protocol hg19_hada_20220224, hg19_hada_related_genes_20220224 \
   -operation f,f \
   -nastring . \
   -vcfinput
