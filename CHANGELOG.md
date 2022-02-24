@@ -1,6 +1,10 @@
 # Changelog
 All notable changes to this project will be documented in this file.
 
+## [1.0.7] - 2022-02-24
+- Release of HADA v.1.0.6
+- Integration of 1 novel causal variants in SERPING1 gene.
+
 ## [1.0.6] - 2021-07-19
 - Release of HADA v.1.0.6
 - Integration of 1 novel causal variants in HS3ST6 gene.
