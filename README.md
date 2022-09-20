@@ -46,8 +46,8 @@ In ANNOVAR folder, download HADA databases from this repository:
 ```
 cd annovar/humandb
 
-wget https://raw.githubusercontent.com/genomicsITER/HADA/blob/master/databases/latest/hg19_hada_20220612.txt
-wget https://raw.githubusercontent.com/genomicsITER/HADA/blob/master/databases/latest/hg19_hada_related_genes_20220612.txt
+wget https://github.com/genomicsITER/HADA/blob/master/databases/latest/hg19_hada_20220920.txt
+wget https://github.com/genomicsITER/HADA/blob/master/databases/latest/hg19_hada_related_20220920.txt
 ```
 
 ## Usage
