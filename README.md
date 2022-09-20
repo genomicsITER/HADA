@@ -58,7 +58,7 @@ perl <path-to-annovar-dir>/table_annovar.pl <path-to-vcf-infile/toy_HADA.vcf> <p
   -buildver hg19 \
   -out <path-to-vcf-outfile> \
   -remove \
-  -protocol hg19_hada_20220224, hg19_hada_related_genes_20220224 \
+  -protocol hg19_hada_20220920, hg19_hada_related_genes_20220920 \
   -operation f,f \
   -nastring . \
   -vcfinput
