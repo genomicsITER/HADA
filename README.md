@@ -4,7 +4,9 @@
 
 In order to assist the clinical diagnosis and adapt it to the paradigm of precision medicine and next-generation sequencing (NGS)-based genetic tests, we have developed the Hereditary Angioedema Database Annotation (HADA) tool (hyperlink to the tool) built on top of a database of hundreds of known variants affecting function, including a precomputed pathogenic assessment of each variant and a ranked classification according to the current guidelines from the American College of Medical Genetics and Genomics. The curated database of variants affecting function in HAE can be accessed from this repository and is ready to be incorporated into ANNOVAR annotation routines.
 
-At the moment, the database is supplied in GRCh37/hg19 coordinates and integrates information from 450 single nucleotide variants and small insertion/deletions from five genes (*SERPING1*, *F12*, *PLG*, *ANGPT1*, and *KNG1*) that we classified as variants likely affecting function.
+At the moment, the database is supplied in GRCh37/hg19 coordinates and integrates information from 492 single nucleotide variants and small insertion/deletions from seven genes (*SERPING1*, *F12*, *PLG*, *ANGPT1*, *KNG1*, *MYOF*, and *HS3ST6*) that we classified as variants likely affecting function.
+
+<img src="images/Workflow.jpg" width="auto" title="HADA workflow" alt="HADA workflow" />
 
 ## Use online web service
 HADA can be used as online service at http://hada.hpc.iter.es
