@@ -6,8 +6,6 @@ In order to assist the clinical diagnosis and adapt it to the paradigm of precis
 
 At the moment, the database is supplied in GRCh37/hg19 coordinates and integrates information from 492 single nucleotide variants and small insertion/deletions from seven genes (*SERPING1*, *F12*, *PLG*, *ANGPT1*, *KNG1*, *MYOF*, and *HS3ST6*) that we classified as variants likely affecting function.
 
-<img src="images/Workflow.jpg" width="auto" title="HADA workflow" alt="HADA workflow" />
-
 ## Use online web service
 HADA can be used as online service at http://hada.hpc.iter.es
 
